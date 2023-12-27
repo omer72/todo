@@ -13,4 +13,4 @@ Create a dynamic and interactive Todo List application using React. The applicat
 7. Style the application using Antd.
 8. Implement proper error handling and validation for user input.
 
-
+![](https://github.com/omer72/todo/blob/main/screencast.gif)
